@@ -32,7 +32,7 @@
 
 
 ```javascript
-const saul = {
+let saul = {
   level:        'JR',
   languages:    ['Java', 'JavaScript', 'Python', 'C#'],
   other:        ['HTML', 'CSS'],

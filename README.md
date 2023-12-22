@@ -39,6 +39,7 @@ let saul = {
   frameworks:   ['Spring', 'Quarkus', 'Express', 'Nextjs', 'Tailwind', 'Flask', '.Net'],
   tools:        ['Node.js', 'Redux', 'Docker', 'Kubernetes', 'Jenkins', 'Kafka'],
   databases:    ['MongoDB', 'PostgreSQL', 'MySQL', 'MSSQL'],
+  cloud:        ['AWS', 'Azure', 'GCP'],
   libraries:    ['React'],
   architecture: ['Microservices', 'DevOps'],
   os:           ['Linux']

@@ -32,7 +32,7 @@
 
 
 ```javascript
-let saul = {
+const saul = {
   level:        'SSR',
   profile:      'Full Stack Developer',
   languages:    ['Java', 'JavaScript', 'Python', 'C#'],
@@ -45,6 +45,8 @@ let saul = {
   architecture: ['Microservices', 'DevOps'],
   os:           ['Linux']
 }
+
+export default saul
 ```
 
 

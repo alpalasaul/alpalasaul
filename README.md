@@ -39,9 +39,11 @@ const saul = {
   other:        ['HTML', 'CSS', 'SASS'],
   frameworks:   ['Spring', 'Quarkus', 'Express', 'Nextjs', 'Tailwind', 'Flask', '.Net'],
   tools:        ['Node.js', 'Redux', 'Docker', 'Kubernetes', 'Jenkins', 'Kafka'],
+  testing:      ['JUnit', 'Mockito', 'Jest', 'React Testing Library', 'SonarQube'],
   databases:    ['MongoDB', 'PostgreSQL', 'MySQL', 'MSSQL'],
   cloud:        ['AWS', 'Azure', 'GCP'],
   libraries:    ['React'],
+  mobile:       ['React Native'],
   architecture: ['Microservices', 'DevOps'],
   os:           ['Linux']
 }

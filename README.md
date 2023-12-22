@@ -33,9 +33,9 @@
 
 ```javascript
 let saul = {
-  level:        'JR',
+  level:        'SSR',
   languages:    ['Java', 'JavaScript', 'Python', 'C#'],
-  other:        ['HTML', 'CSS'],
+  other:        ['HTML', 'CSS', 'SASS'],
   frameworks:   ['Spring', 'Quarkus', 'Express', 'Nextjs', 'Tailwind', 'Flask', '.Net'],
   tools:        ['Node.js', 'Redux', 'Docker', 'Kubernetes', 'Jenkins', 'Kafka'],
   databases:    ['MongoDB', 'PostgreSQL', 'MySQL', 'MSSQL'],

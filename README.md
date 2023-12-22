@@ -34,6 +34,7 @@
 ```javascript
 let saul = {
   level:        'SSR',
+  profile:      'Full Stack Developer',
   languages:    ['Java', 'JavaScript', 'Python', 'C#'],
   other:        ['HTML', 'CSS', 'SASS'],
   frameworks:   ['Spring', 'Quarkus', 'Express', 'Nextjs', 'Tailwind', 'Flask', '.Net'],
